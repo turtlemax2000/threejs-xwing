@@ -12,6 +12,7 @@
     "vite": "^4.0.4"
   },
   "dependencies": {
+    "react-scripts": "^5.0.1",
     "three": "^0.148.0"
   }
 }
