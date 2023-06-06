@@ -3,6 +3,9 @@ import { OrbitControls } from 'three/examples/jsm/controls/OrbitControls'
 import { STLLoader } from 'three/examples/jsm/loaders/STLLoader'
 import Stats from 'three/examples/jsm/libs/stats.module'
 
+
+
+
 let camera, scene, renderer, controls, grid, stats;
 
 const container = document.querySelector( 'body' );
