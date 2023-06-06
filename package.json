@@ -4,15 +4,13 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite --host",
-    "build": "vite build",
-    "serve": "vite preview"
+    "dev": "vite",
+    "build": "vite build"
   },
   "devDependencies": {
     "vite": "^4.0.4"
   },
   "dependencies": {
-    "react-scripts": "^5.0.1",
     "three": "^0.148.0"
   }
 }
