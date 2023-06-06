@@ -1,0 +1,32 @@
+
+
+body {
+    font-family: sans-serif;
+    margin:0; 
+    padding: 0; 
+    overflow:hidden
+}
+ul {
+    list-style: none;
+    padding: 0;
+}
+ul li {
+    padding:4px 0;
+}
+.info {
+    position: absolute;
+    padding:20px 40px 80px 40px;
+    top:20px;
+    right:20px;
+    color:cyan;
+    background-color: rgba(0,0,0,.5);
+    border-radius: 3%;
+}
+hr {    color:cyan;
+}
+div {
+    position: absolute!important;
+    right:150px!important;
+    top:225px!important;
+    left:initial!important;
+}     
